@@ -4,6 +4,7 @@ permalink: /:categories/:year/:month/:day/:title
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 pygments: true
+mardown: redcarpet
 encoding: utf-8
 
 
@@ -12,14 +13,13 @@ encoding: utf-8
 #
 title : Jeosea's blog
 tagline: Site Tagline
-lasttime: 2014-03-07    # please modify before each push
+lasttime: 2014-08-17    # please modify before each push
 author :
   name : jeosea
   email : guoshun100@foxmail.com
   github : guoguogis
   weibo: baoguoshun
   csdn : guoguogis
-  #feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
